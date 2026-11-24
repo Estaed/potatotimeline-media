@@ -1,3 +1,4 @@
-# The Potato Timeline media
+# Public media
 
-Public copies of published shorts, one release per Reel (reel-NNN), used as stable media URLs by the scheduler.
+Public copies of published shorts at direct URLs for the scheduler (Buffer cannot read a redirect):
+The Potato Timeline under reel-NNN/, MapBrawl under ep-NNN/.
